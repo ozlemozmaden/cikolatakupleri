@@ -1,0 +1,34 @@
+body {
+    background-color:#E0C9A9 ;}
+    
+ins {
+    margin-right: 10px;
+}
+
+ins span {color:#A14905 ;
+font-weight: bold;}
+    
+ .tarifbilgileri1 {text-align: center;}
+
+.malzemeler {
+    position: relative; left: 450px;
+    color: white;
+    background-color: #953102;
+    border-radius: 20px;}
+
+.malzemeler2 {position: relative; left: 450px}
+
+.tarif {
+    position: relative;left: 450px ;
+    color: white;
+    background-color: #953102;
+    border-radius: 20px;
+}
+
+.tarif2 {
+    position: relative; left: 450px;
+}
+
+.kapanis {text-align:end;
+font-size: x-large;
+font-family: 'Courier New', Courier, monospace;}
